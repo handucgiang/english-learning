@@ -65,6 +65,9 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 - [01 - Đi làm / văn phòng](phrases/01-workplace.md)
 - [02 - Du lịch](phrases/02-travel.md)
 - [03 - Phỏng vấn xin việc](phrases/03-interview.md)
+- [04 - Giao tiếp xã giao hằng ngày](phrases/04-social-small-talk.md)
+- [05 - Gọi điện thoại](phrases/05-phone-calls.md)
+- [06 - Nhà hàng & Ăn uống](phrases/06-restaurant-dining.md)
 
 ### 🎧 Kỹ năng Nghe ([listening/](listening/))
 - [01 - Chiến lược nghe tổng quan](listening/01-listening-strategies.md)
