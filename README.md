@@ -33,6 +33,13 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 - [14 - Câu hỏi & Câu hỏi đuôi](grammar/14-questions-and-tags.md)
 - [15 - Trật tự từ & Vị trí trạng từ](grammar/15-word-order-adverbs.md)
 - [16 - Ngữ pháp nâng cao: Đảo ngữ, Câu giả định, Mệnh đề rút gọn](grammar/16-advanced-structures.md)
+- [17 - Câu khiến (Causative Verbs)](grammar/17-causative-verbs.md)
+- [18 - Wish, If only & Quá khứ giả định](grammar/18-wish-unreal-past.md)
+- [19 - Used to / Be used to / Get used to](grammar/19-used-to-be-used-to.md)
+- [20 - Mệnh đề Mục đích, Kết quả & Nhượng bộ](grammar/20-purpose-result-concession.md)
+- [21 - Mệnh đề danh từ (Noun Clauses)](grammar/21-noun-clauses.md)
+- [22 - Hòa hợp chủ ngữ - động từ nâng cao](grammar/22-subject-verb-agreement.md)
+- [23 - Tỉnh lược & Thay thế (Ellipsis & Substitution)](grammar/23-ellipsis-substitution.md)
 
 ### 💬 Mẫu câu giao tiếp ([phrases/](phrases/))
 - [01 - Đi làm / văn phòng](phrases/01-workplace.md)
@@ -73,6 +80,7 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 | 1. Nền tảng | Từ vựng cơ bản + ngữ pháp thì + phát âm IPA | `vocabulary/01-04`, `grammar/01-04`, `speaking/01` |
 | 2. Xây phản xạ nghe-nói | Luyện nghe chủ động (dictation) + shadowing hằng ngày | `listening/`, `speaking/02-04` |
 | 3. Mở rộng ngữ pháp & từ vựng | Bị động, tường thuật, mệnh đề quan hệ, modal verbs, mạo từ, giới từ, so sánh... + từ vựng chủ đề mới | `grammar/05-16`, `vocabulary/05-08` |
+| 3.5. Ngữ pháp nâng cao | Câu khiến, wish/quá khứ giả định, used to, mệnh đề mục đích/kết quả/nhượng bộ, mệnh đề danh từ, hòa hợp chủ-vị, tỉnh lược | `grammar/17-23` |
 | 4. Đọc – Viết chủ động | Luyện đọc hiểu + viết đoạn văn/email/bài luận | `reading/`, `writing/` |
 | 5. Tự nhiên hóa ngôn ngữ | Idioms, phrasal verbs, luyện nói theo chủ đề, hội thoại thực tế | `idioms-phrasal-verbs/`, `phrases/`, `speaking/04` |
 
