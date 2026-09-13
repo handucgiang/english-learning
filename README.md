@@ -50,6 +50,14 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 - [01 - Chiến lược nghe tổng quan](listening/01-listening-strategies.md)
 - [02 - Dictation & Shadowing](listening/02-dictation-and-shadowing.md)
 - [03 - Ghi chú nhanh khi nghe](listening/03-note-taking-symbols.md)
+- [04 - Âm nối & Hiện tượng nói tự nhiên (Connected Speech)](listening/04-connected-speech.md)
+- [05 - Từ điển các dạng rút gọn khi nói nhanh](listening/05-reduced-forms-glossary.md)
+- [06 - Phân biệt giọng Anh-Anh & Anh-Mỹ](listening/06-british-american-accents.md)
+- [07 - Nghe Số, Ngày tháng & Đánh vần](listening/07-numbers-dates-spelling.md)
+- [08 - Nghe trong ngữ cảnh thực tế (điện thoại, họp, phim, bài giảng)](listening/08-listening-in-context.md)
+- [09 - Luyện nghe: Hội thoại đời thường](listening/09-practice-dialogue-daily-life.md)
+- [10 - Luyện nghe: Cuộc họp công sở](listening/10-practice-dialogue-workplace-meeting.md)
+- [11 - Luyện nghe: Cuộc gọi điện thoại](listening/11-practice-dialogue-phone-call.md)
 
 ### 🗣️ Kỹ năng Nói ([speaking/](speaking/))
 - [01 - Bảng phiên âm IPA & âm khó](speaking/01-phonetics-ipa.md)
@@ -78,7 +86,7 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 | Giai đoạn | Trọng tâm | Tài liệu chính |
 |---|---|---|
 | 1. Nền tảng | Từ vựng cơ bản + ngữ pháp thì + phát âm IPA | `vocabulary/01-04`, `grammar/01-04`, `speaking/01` |
-| 2. Xây phản xạ nghe-nói | Luyện nghe chủ động (dictation) + shadowing hằng ngày | `listening/`, `speaking/02-04` |
+| 2. Xây phản xạ nghe-nói | Luyện nghe chủ động (dictation) + shadowing hằng ngày, âm nối, giọng vùng miền, nghe theo ngữ cảnh thực tế | `listening/`, `speaking/02-04` |
 | 3. Mở rộng ngữ pháp & từ vựng | Bị động, tường thuật, mệnh đề quan hệ, modal verbs, mạo từ, giới từ, so sánh... + từ vựng chủ đề mới | `grammar/05-16`, `vocabulary/05-08` |
 | 3.5. Ngữ pháp nâng cao | Câu khiến, wish/quá khứ giả định, used to, mệnh đề mục đích/kết quả/nhượng bộ, mệnh đề danh từ, hòa hợp chủ-vị, tỉnh lược | `grammar/17-23` |
 | 4. Đọc – Viết chủ động | Luyện đọc hiểu + viết đoạn văn/email/bài luận | `reading/`, `writing/` |
