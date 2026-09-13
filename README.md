@@ -25,6 +25,14 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 - [06 - Câu tường thuật](grammar/06-reported-speech.md)
 - [07 - Mệnh đề quan hệ](grammar/07-relative-clauses.md)
 - [08 - Động từ khuyết thiếu (Modal Verbs)](grammar/08-modal-verbs.md)
+- [09 - Mạo từ (a/an/the)](grammar/09-articles.md)
+- [10 - Giới từ](grammar/10-prepositions.md)
+- [11 - Danh động từ & Động từ nguyên mẫu (V-ing / to-V)](grammar/11-gerunds-infinitives.md)
+- [12 - So sánh (Comparatives & Superlatives)](grammar/12-comparatives-superlatives.md)
+- [13 - Danh từ đếm được/không đếm được & Lượng từ](grammar/13-countable-uncountable-quantifiers.md)
+- [14 - Câu hỏi & Câu hỏi đuôi](grammar/14-questions-and-tags.md)
+- [15 - Trật tự từ & Vị trí trạng từ](grammar/15-word-order-adverbs.md)
+- [16 - Ngữ pháp nâng cao: Đảo ngữ, Câu giả định, Mệnh đề rút gọn](grammar/16-advanced-structures.md)
 
 ### 💬 Mẫu câu giao tiếp ([phrases/](phrases/))
 - [01 - Đi làm / văn phòng](phrases/01-workplace.md)
@@ -64,7 +72,7 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 |---|---|---|
 | 1. Nền tảng | Từ vựng cơ bản + ngữ pháp thì + phát âm IPA | `vocabulary/01-04`, `grammar/01-04`, `speaking/01` |
 | 2. Xây phản xạ nghe-nói | Luyện nghe chủ động (dictation) + shadowing hằng ngày | `listening/`, `speaking/02-04` |
-| 3. Mở rộng ngữ pháp & từ vựng | Bị động, tường thuật, mệnh đề quan hệ, modal verbs + từ vựng chủ đề mới | `grammar/05-08`, `vocabulary/05-08` |
+| 3. Mở rộng ngữ pháp & từ vựng | Bị động, tường thuật, mệnh đề quan hệ, modal verbs, mạo từ, giới từ, so sánh... + từ vựng chủ đề mới | `grammar/05-16`, `vocabulary/05-08` |
 | 4. Đọc – Viết chủ động | Luyện đọc hiểu + viết đoạn văn/email/bài luận | `reading/`, `writing/` |
 | 5. Tự nhiên hóa ngôn ngữ | Idioms, phrasal verbs, luyện nói theo chủ đề, hội thoại thực tế | `idioms-phrasal-verbs/`, `phrases/`, `speaking/04` |
 
@@ -78,4 +86,3 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 6. **Đọc**: luyện skim/scan trước khi đọc chi tiết, đoán nghĩa từ mới từ ngữ cảnh thay vì tra từ điển ngay.
 7. **Viết**: chọn đề trong `writing/04-writing-practice-prompts.md`, viết không tra từ điển liên tục, sau đó tự sửa theo checklist.
 
-Bạn có thể yêu cầu tôi bổ sung thêm chủ đề mới hoặc mở rộng file bất kỳ lúc nào.
