@@ -40,6 +40,7 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 - [21 - Mệnh đề danh từ (Noun Clauses)](grammar/21-noun-clauses.md)
 - [22 - Hòa hợp chủ ngữ - động từ nâng cao](grammar/22-subject-verb-agreement.md)
 - [23 - Tỉnh lược & Thay thế (Ellipsis & Substitution)](grammar/23-ellipsis-substitution.md)
+- [24 - Danh sách Động từ Bất quy tắc (Irregular Verbs)](grammar/24-irregular-verbs.md)
 
 ### 💬 Mẫu câu giao tiếp ([phrases/](phrases/))
 - [01 - Đi làm / văn phòng](phrases/01-workplace.md)
