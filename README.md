@@ -58,6 +58,11 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 - [09 - Luyện nghe: Hội thoại đời thường](listening/09-practice-dialogue-daily-life.md)
 - [10 - Luyện nghe: Cuộc họp công sở](listening/10-practice-dialogue-workplace-meeting.md)
 - [11 - Luyện nghe: Cuộc gọi điện thoại](listening/11-practice-dialogue-phone-call.md)
+- [12 - Suy luận ý nghĩa ẩn & Ngữ điệu thái độ (sarcasm, hedging)](listening/12-inference-implied-meaning.md)
+- [13 - Giọng tiếng Anh toàn cầu (Úc, Ấn Độ, Singapore, Philippines...)](listening/13-global-accents.md)
+- [14 - Ghi chú bài giảng dài (Cornell Method)](listening/14-advanced-note-taking-lectures.md)
+- [15 - Luyện nghe nâng cao: Đàm phán & Bất đồng quan điểm](listening/15-practice-dialogue-negotiation.md)
+- [16 - Luyện nghe nâng cao: Bài giảng học thuật](listening/16-practice-academic-lecture.md)
 
 ### 🗣️ Kỹ năng Nói ([speaking/](speaking/))
 - [01 - Bảng phiên âm IPA & âm khó](speaking/01-phonetics-ipa.md)
