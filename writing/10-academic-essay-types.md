@@ -92,3 +92,18 @@ Chọn 1 đề bài, viết dàn ý chi tiết (chưa cần viết bài hoàn ch
 1. Compare and contrast studying online versus studying in a traditional classroom. *(Compare & Contrast)*
 2. What are the causes of rising urban traffic congestion? *(Cause & Effect)*
 3. Should social media platforms be regulated by the government? *(Argumentative — nhớ có counter-argument)*
+
+<details>
+<summary>Dàn ý mẫu tham khảo (đề 2: Cause & Effect)</summary>
+
+```
+I. Mở bài: giới thiệu hiện tượng kẹt xe đô thị ngày càng nghiêm trọng
+II. Nguyên nhân 1: tăng trưởng dân số đô thị nhanh hơn tốc độ mở rộng hạ tầng giao thông
+III. Nguyên nhân 2: sự phụ thuộc vào xe cá nhân do hệ thống giao thông công cộng chưa đủ tiện lợi
+IV. Nguyên nhân 3: quy hoạch đô thị phân tán (nhà ở xa nơi làm việc, buộc di chuyển xa)
+V. Kết luận: tóm tắt 3 nguyên nhân, đề xuất hướng giải quyết (đầu tư giao thông công cộng, quy hoạch tích hợp)
+```
+
+*(Không có đáp án cố định — kiểm tra dàn ý của bạn: có đúng cấu trúc yêu cầu của dạng bài (Compare & Contrast dùng block hoặc point-by-point; Cause & Effect có phân tích rõ từng nguyên nhân; Argumentative có đoạn counter-argument) không?)*
+
+</details>

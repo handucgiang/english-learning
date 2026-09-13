@@ -53,3 +53,18 @@ Ghi âm giọng mình khi shadowing, nghe lại và so sánh với bản gốc:
 - **Cố nói đúng từng từ một, dừng lại khi bị hụt** → nên tiếp tục, chấp nhận bỏ sót vài từ để giữ nhịp.
 - **Chọn audio quá khó/quá nhanh ngay từ đầu** → dễ nản, nên tăng độ khó dần.
 - **Chỉ shadowing 1 lần rồi bỏ** → hiệu quả đến từ việc lặp lại nhiều lần CÙNG một đoạn cho đến khi trôi chảy, không phải nghe nhiều đoạn khác nhau mỗi lần một ít.
+
+## 6. Bài tập
+
+1. Áp dụng đủ 5 bước ở mục 3 với đoạn hội thoại tại [listening/09-practice-dialogue-daily-life.md](../listening/09-practice-dialogue-daily-life.md) (30s-1 phút đầu tiên).
+2. Trả lời nhanh: đâu là lỗi phổ biến nhất khi mới luyện shadowing, và cách khắc phục?
+3. Trả lời nhanh: vì sao nên luyện shadowing 1-2 phút mỗi ngày thay vì 30 phút một lần rồi bỏ?
+
+<details>
+<summary>Đáp án</summary>
+
+1. Không có đáp án cố định — tự ghi âm và so sánh với bản gốc trong file transcript đã dẫn.
+2. Cố nói đúng từng từ một và dừng lại khi bị hụt — nên tiếp tục nói, chấp nhận bỏ sót vài từ để giữ nhịp, vì mục tiêu là luyện phản xạ chứ không phải độ chính xác tuyệt đối.
+3. Vì luyện đều đặn, ngắn mỗi ngày giúp xây phản xạ bền vững hơn; luyện dồn 30 phút một lần rồi bỏ không tạo được thói quen lặp lại cần thiết để "cấy" phản xạ vào não.
+
+</details>

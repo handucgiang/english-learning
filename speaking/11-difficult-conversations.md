@@ -70,3 +70,12 @@ Dùng mô hình "Khen — Góp ý — Khích lệ" (Sandwich method) hoặc tr�
 1. Bạn cần góp ý cho đồng nghiệp về một bài thuyết trình chưa tốt — dùng công thức Sandwich ở mục 1.
 2. Bạn nhận món ăn sai ở nhà hàng — phàn nàn lịch sự theo mục 2.
 3. Bạn phải từ chối một lời mời làm thêm việc vì đã quá tải — dùng mục 4, kèm đề xuất thay thế nếu có thể.
+
+<details>
+<summary>Bài mẫu tham khảo cho tình huống 3</summary>
+
+> "Thanks so much for thinking of me for this — I really appreciate it. That said, I'm at capacity right now with the current project deadlines, and I don't want to take this on and not give it the attention it deserves. I can't do it this week, but if it's still relevant next Monday, I'd be glad to help then. Alternatively, Minh has more bandwidth right now and has experience with something similar — might be worth checking with her too."
+
+*(Từ chối lịch sự: "I'm at capacity right now"; đề xuất thay thế: mốc thời gian khác + gợi ý người khác. Không có đáp án cố định — kiểm tra bài của bạn có đủ: từ chối rõ ràng, không đổ lỗi, và có phương án thay thế không.)*
+
+</details>

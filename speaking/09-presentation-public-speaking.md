@@ -63,3 +63,16 @@
 ## 7. Bài tập
 
 Chuẩn bị một bài thuyết trình ngắn (2-3 phút) về một chủ đề quen thuộc (ví dụ: giới thiệu công việc của bạn, hoặc một sở thích). Áp dụng đầy đủ cấu trúc mở-thân-kết ở mục 1, có ít nhất 1 hook ở mục 2, và 2 cụm chuyển ý ở mục 3. Ghi âm và tự đánh giá theo mục 5 (tốc độ, ngắt nghỉ, nhấn giọng).
+
+<details>
+<summary>Dàn ý mẫu tham khảo (chủ đề: giới thiệu sở thích chạy bộ)</summary>
+
+> **Hook:** "Did you know that running just three times a week can add years to your life expectancy? That's actually what got me started.
+> **Mở đầu:** Today, I want to share why running became such an important part of my routine, and what I've learned along the way.
+> **Thân bài (chuyển ý 1):** Moving on to how I got started — I actually began during a stressful period at work, just as a way to clear my head...
+> **Thân bài (chuyển ý 2):** That brings me to the biggest lesson I've learned: consistency matters far more than intensity...
+> **Kết luận:** To sum up, running taught me more about discipline than almost anything else in my life. Thank you — happy to answer any questions."
+
+*(Không có đáp án cố định — kiểm tra bài của bạn có đủ hook, cấu trúc 3 phần, và ít nhất 2 cụm chuyển ý không.)*
+
+</details>

@@ -67,3 +67,20 @@ Tốc độ đọc nên thay đổi tùy theo MỤC ĐÍCH đọc, không phải
 ## 7. Bài tập thực hành
 
 Chọn 1 bài đọc bất kỳ trong [reading/](.) (ví dụ [12-passage-business-report.md](12-passage-business-report.md)). Áp dụng preview 30 giây trước, sau đó đọc theo cụm với kỹ thuật đếm nhẩm giảm subvocalization. Đo thời gian đọc, tính tốc độ, và trả lời các câu hỏi đọc hiểu có sẵn trong bài để kiểm tra độ chính xác.
+
+*(Đáp án cho phần đọc hiểu nằm sẵn trong bài đọc bạn chọn — ví dụ đáp án của [12-passage-business-report.md](12-passage-business-report.md) nằm ở cuối file đó.)*
+
+## 8. Bài tập kiểm tra nhanh
+
+1. Công thức tính tốc độ đọc là gì?
+2. Vì sao KHÔNG nên chỉ chạy theo số từ/phút mà bỏ qua việc kiểm tra độ hiểu?
+3. "Chunking" khi đọc nghĩa là gì?
+
+<details>
+<summary>Đáp án</summary>
+
+1. Tốc độ (từ/phút) = Tổng số từ ÷ Thời gian đọc (phút).
+2. Vì tăng tốc độ mà giảm độ hiểu là phản tác dụng — mục tiêu cuối cùng của đọc là HIỂU, không phải chỉ đọc nhanh; cần giữ độ hiểu ở mức 80%+ câu hỏi đúng khi luyện tốc độ.
+3. Là kỹ thuật đọc theo CỤM 3-5 từ mỗi lần dừng mắt (fixation), thay vì đọc từng từ riêng lẻ — giúp tăng tốc độ và cải thiện khả năng nắm cấu trúc câu.
+
+</details>

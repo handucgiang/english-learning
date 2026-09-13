@@ -57,3 +57,20 @@ Nắm được cấu trúc này giúp bạn skim nhanh hơn: chỉ cần đọc 
 5. Ghi lại 3–5 từ vựng mới hữu ích từ bài đọc để ôn sau.
 
 Thực hành với các bài đọc mẫu tại [02-passage-daily-life.md](02-passage-daily-life.md), [03-passage-workplace.md](03-passage-workplace.md), [04-passage-general-topic.md](04-passage-general-topic.md).
+
+## 7. Bài tập kiểm tra hiểu chiến lược
+
+1. Skimming và scanning khác nhau ở điểm nào?
+2. Khi gặp từ lạ, bước ĐẦU TIÊN nên làm là gì: tra từ điển ngay hay đoán nghĩa từ ngữ cảnh?
+3. "Subvocalization" là gì, và vì sao nó làm giảm tốc độ đọc?
+4. Trong quy trình đọc hiểu đề xuất, bước nào nên làm TRƯỚC khi đọc chi tiết từng đoạn?
+
+<details>
+<summary>Đáp án</summary>
+
+1. Skimming là đọc lướt để nắm Ý CHÍNH tổng quát; scanning là tìm một THÔNG TIN CỤ THỂ (tên, số liệu, ngày) mà không cần đọc hiểu toàn bộ.
+2. Đoán nghĩa từ ngữ cảnh trước — chỉ tra từ điển nếu từ đó lặp lại nhiều lần và thực sự cản trở việc hiểu bài.
+3. Subvocalization là việc đọc thầm phát âm từng từ trong đầu khi đọc; nó làm giảm tốc độ vì tốc độ đọc bị giới hạn bằng tốc độ "nói thầm", trong khi mắt/não có thể xử lý nhanh hơn nhiều nếu đọc theo cụm từ.
+4. Đọc câu hỏi (nếu có) trước, và skim toàn bài để nắm chủ đề chung — cả hai đều nên làm trước khi đọc chi tiết từng đoạn.
+
+</details>

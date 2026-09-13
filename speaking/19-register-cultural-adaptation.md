@@ -54,3 +54,18 @@ Khi nói chuyện với người có trình độ tiếng Anh thấp hơn (khôn
 
 1. Viết 1 câu xin lỗi vì trễ deadline theo cả 2 văn phong (trang trọng và thân mật), nói to cả hai, chú ý sự khác biệt trong lựa chọn từ và ngữ điệu.
 2. Tưởng tượng bạn đang họp với đối tác từ Đức (trực tiếp) và đối tác từ Nhật (gián tiếp) về cùng một vấn đề (dự án bị trễ) — thử điều chỉnh cách bạn trình bày vấn đề cho từng đối tượng, nói to cả hai cách.
+
+<details>
+<summary>Bài mẫu tham khảo</summary>
+
+**Câu 1 — xin lỗi vì trễ deadline:**
+- Trang trọng: "I sincerely apologize for the delay in delivering the report. I take full responsibility and will have it completed by tomorrow morning."
+- Thân mật: "Hey, sorry, my bad — the report's running a bit late. I'll get it to you first thing tomorrow."
+
+**Câu 2 — báo dự án trễ:**
+- Với đối tác Đức (trực tiếp): "The project will be delayed by two weeks due to a vendor issue. We're implementing additional checks to prevent this going forward."
+- Với đối tác Nhật (gián tiếp): "Thank you very much for your patience with this project so far. We have been closely monitoring progress and unfortunately encountered an unexpected delay from our vendor. We would be very grateful for your understanding, and we are taking steps to ensure this does not happen again."
+
+*(Không có đáp án cố định — kiểm tra bài của bạn có thể hiện đúng đặc trưng văn hóa: trực tiếp/đi thẳng vào vấn đề với đối tác Đức, và xây dựng bối cảnh/thể hiện tôn trọng trước với đối tác Nhật không.)*
+
+</details>

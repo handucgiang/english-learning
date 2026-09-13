@@ -58,3 +58,18 @@ Nếu gặp một trong hai dấu hiệu trên kéo dài, hãy điều chỉnh �
 | 2 | Tăng lên 15 phút/ngày, bắt đầu ghi chú 2-3 từ mới mỗi ngày |
 | 3 | Thử 1 bài đọc chuyên sâu/tuần (dùng các bài mẫu trong [reading/](.)), phân tích kỹ theo [09-comprehension-question-types.md](09-comprehension-question-types.md) |
 | 4 | Duy trì đọc mở rộng hằng ngày + 1 bài chuyên sâu/tuần, bắt đầu đọc thể loại khó hơn một chút |
+
+## 8. Bài tập
+
+1. Áp dụng "quy tắc 5 ngón tay" ở mục 2 với một trang bất kỳ trong sách/bài báo bạn đang định đọc — đếm số từ lạ và xác định tài liệu này thuộc mức nào (quá dễ / vừa sức / quá khó).
+2. Trả lời nhanh: đọc mở rộng (extensive) khác đọc chuyên sâu (intensive) ở điểm nào?
+3. Trả lời nhanh: nếu một tài liệu khiến bạn phải tra từ điển sau mỗi 1-2 câu, bạn nên làm gì?
+
+<details>
+<summary>Đáp án</summary>
+
+1. Không có đáp án cố định — tùy tài liệu bạn chọn. Ghi nhớ mốc: 0-1 từ lạ = quá dễ, 2-4 từ lạ = vừa sức (lý tưởng), 5+ từ lạ = quá khó cho đọc mở rộng.
+2. Đọc mở rộng ưu tiên đọc NHIỀU, nhanh, bỏ qua từ lạ nếu không cản trở hiểu ý chính; đọc chuyên sâu ưu tiên đọc KỸ, chậm, tra cứu và phân tích từng từ/câu.
+3. Nên điều chỉnh xuống tài liệu dễ hơn — đây là dấu hiệu tài liệu quá khó cho việc đọc mở rộng, dễ gây nản và phản tác dụng cho việc xây thói quen.
+
+</details>

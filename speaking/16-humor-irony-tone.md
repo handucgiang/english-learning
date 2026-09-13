@@ -57,3 +57,13 @@ Không cần thiết phải giỏi chơi chữ, nhưng nhận biết được gi
 1. Nghĩ ra 1 tình huống gần đây hơi tệ đã xảy ra với bạn (trễ xe bus, làm đổ cà phê...). Kể lại bằng understatement ("Well, that could have gone better.")
 2. Thử tự trào nhẹ về một điểm yếu không nghiêm trọng của bản thân trong 1 câu.
 3. Ghi âm cả hai, nghe lại xem ngữ điệu có truyền tải đúng ý hài hước không, hay nghe như đang nói thật.
+
+<details>
+<summary>Bài mẫu tham khảo</summary>
+
+1. Understatement: "So I spilled an entire cup of coffee on my laptop this morning. It's fine. Everything's fine. The keyboard just types the letter 'e' on its own now, which is a fun new feature I didn't ask for."
+2. Self-deprecating: "I like to think of myself as punctual, in the same way I like to think of my plants as thriving — technically alive, mostly on time."
+
+*(Không có đáp án cố định — điểm mấu chốt cần kiểm tra khi nghe lại: ngữ điệu có đủ "tỉnh bơ"/nhẹ nhàng để người nghe hiểu đây là hài hước, không phải đang than phiền thật không?)*
+
+</details>

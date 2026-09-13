@@ -68,3 +68,22 @@ Mỗi loại văn bản có cấu trúc và mục đích khác nhau — áp dụ
 ## 10. Bài tập
 
 Chọn 3 văn bản khác thể loại mà bạn có sẵn (một email, một bài báo, một đoạn hướng dẫn sử dụng sản phẩm). Với mỗi văn bản, áp dụng đúng chiến lược tương ứng ở trên, và tự đo thời gian đọc hiểu — so sánh với việc đọc tuần tự từ đầu đến cuối như bình thường.
+
+## 11. Bài tập kiểm tra nhanh
+
+Với mỗi thể loại văn bản sau, xác định phần nào nên đọc KỸ NHẤT theo chiến lược đã nêu:
+
+1. Tin tức (News article)
+2. Hợp đồng (Legal/Contract text)
+3. Bài luận nêu quan điểm (Opinion essay)
+4. Văn bản hướng dẫn sử dụng (Instructional text)
+
+<details>
+<summary>Đáp án</summary>
+
+1. Tiêu đề + đoạn mở đầu (lead paragraph) — thường đã trả lời đủ 5W1H.
+2. Phần định nghĩa thuật ngữ (definitions) + các điều khoản mang tính ràng buộc ("shall", "must").
+3. Thesis statement (thường cuối đoạn mở bài) + câu chủ đề (topic sentence) của mỗi đoạn thân bài.
+4. Toàn bộ các bước theo đúng trình tự, đặc biệt các phần CẢNH BÁO/NOTE — không nên skim văn bản hướng dẫn.
+
+</details>

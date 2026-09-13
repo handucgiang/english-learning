@@ -57,3 +57,12 @@ Bảng này giúp nhìn thấy TOÀN CẢNH thay vì nhớ rời rạc từng b�
 2. Viết 1 đoạn tổng hợp ngắn (3-4 câu) kết nối insight từ cả 2 bài, dùng ít nhất 2 cụm từ ở mục 5.
 
 *(Bài tập này rèn tư duy tổng hợp — áp dụng thực tế nhất khi bạn có 2+ bài viết thật về cùng một chủ đề, ví dụ khi nghiên cứu cho công việc/học tập.)*
+
+<details>
+<summary>Đáp án gợi ý cho bài tập 2 (đoạn văn tổng hợp mẫu)</summary>
+
+"While [10-passage-opinion-essay.md] argues that fully replacing textbooks with tablets would currently do more harm than good, it acknowledges that digital tools have real value as supplements. This is consistent with [12-passage-business-report.md], which similarly found that a hybrid approach — combining human support with self-service digital tools — produced the best outcome, rather than relying entirely on one solution. Taken together, these sources suggest that in both education and customer service, blending traditional and digital methods tends to outperform an all-or-nothing switch."
+
+*(Đây chỉ là một cách tổng hợp hợp lý — không phải đáp án duy nhất. Miễn đoạn văn của bạn có so sánh/kết nối thật sự giữa 2 nguồn, không chỉ liệt kê riêng lẻ, là đạt yêu cầu.)*
+
+</details>

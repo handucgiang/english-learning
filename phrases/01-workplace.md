@@ -38,3 +38,24 @@
 - "Thanks for your time today." — Cảm ơn thời gian của mọi người hôm nay.
 - "Let's wrap up here." — Chúng ta kết thúc ở đây nhé.
 - "See you at the next meeting." — Hẹn gặp lại ở cuộc họp tiếp theo.
+
+## Bài tập
+
+Chọn mẫu câu phù hợp nhất cho mỗi tình huống sau:
+
+1. Bạn muốn bổ sung ý kiến trong lúc đồng nghiệp đang trình bày trong cuộc họp.
+2. Bạn cần xin nghỉ một ngày vào thứ Hai tuần sau.
+3. Bạn lo rằng dự án sẽ không hoàn thành đúng hạn.
+4. Bạn muốn dời một chủ đề nhạy cảm sang bàn riêng ngoài cuộc họp.
+5. Bạn muốn kết thúc cuộc họp một cách lịch sự.
+
+<details>
+<summary>Đáp án gợi ý</summary>
+
+1. "I'd like to add something here."
+2. "I'd like to request a day off next Monday."
+3. "I'm afraid we might miss the deadline."
+4. "Can we take this offline?"
+5. "Thanks for your time today." / "Let's wrap up here."
+
+</details>

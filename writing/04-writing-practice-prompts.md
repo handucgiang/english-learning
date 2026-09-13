@@ -41,3 +41,9 @@ Sau khi viết xong, tự kiểm tra theo checklist:
 - [ ] Có đa dạng cấu trúc câu (không lặp lại "I think... I think...")?
 - [ ] Có mạo từ (a/an/the) đầy đủ ở những chỗ cần thiết?
 - [ ] Câu kết có tóm lại ý chính không?
+
+## Bài mẫu tham khảo (đề "Describe a skill you are currently trying to improve")
+
+> "One skill I've been actively working on is public speaking. For most of my life, I avoided speaking in front of groups whenever possible, but my current job has made that impossible to keep avoiding. A few months ago, I started practicing by recording myself explaining random topics for two minutes at a time, then listening back and noting where I hesitated or lost my train of thought. It's still uncomfortable, and I definitely still ramble sometimes, but I've noticed I no longer freeze up completely when I have to speak unprepared. My goal by the end of the year is to volunteer to lead at least one team meeting without feeling like I need a script."
+
+*(Không có đáp án cố định cho các đề mở — bài mẫu này minh họa độ dài, cấu trúc (mở đầu nêu kỹ năng → quá trình luyện tập → kết quả hiện tại → mục tiêu) mà bạn có thể tham khảo khi tự viết và tự chấm theo checklist ở trên.)*

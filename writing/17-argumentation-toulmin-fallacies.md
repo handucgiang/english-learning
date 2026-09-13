@@ -50,3 +50,22 @@ Mở rộng từ [10-academic-essay-types.md](10-academic-essay-types.md) (Argum
 
 1. Chọn 1 luận điểm bạn tin tưởng (ví dụ: "Reading books is more valuable than watching videos for learning"). Viết 1 đoạn văn áp dụng đầy đủ mô hình Toulmin (Claim, Evidence, Warrant, Qualifier, Rebuttal).
 2. Đọc lại đoạn văn bạn vừa viết — kiểm tra xem có mắc lỗi ngụy biện nào ở mục 2 không.
+
+## 5. Bài tập nhận diện ngụy biện (có đáp án)
+
+Xác định loại ngụy biện trong mỗi câu sau:
+
+1. "If we let employees choose their own hours, soon no one will show up to work at all."
+2. "My favorite blogger says this supplement works, so it must be effective."
+3. "Either we ban all social media for teens, or we accept that they'll all become addicted."
+4. "We can't trust his budget proposal — he's terrible at managing his own finances."
+
+<details>
+<summary>Đáp án</summary>
+
+1. Slippery Slope — giả định một thay đổi nhỏ sẽ dẫn đến hậu quả cực đoan không có căn cứ.
+2. Appeal to Authority (sai) — uy tín của blogger không liên quan đến chuyên môn y tế/dinh dưỡng.
+3. False Dilemma — chỉ đưa 2 lựa chọn cực đoan, bỏ qua các phương án trung gian (ví dụ: giới hạn thời gian sử dụng).
+4. Ad Hominem — công kích cá nhân (quản lý tài chính cá nhân) thay vì phản biện trực tiếp nội dung đề xuất ngân sách.
+
+</details>

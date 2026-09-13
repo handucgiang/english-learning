@@ -64,3 +64,16 @@ Không bao giờ nhượng bộ mà không đổi lại điều gì — luôn d�
 
 1. Đàm phán lương cho vị trí công việc mới — dùng ít nhất 1 câu ở mục 2, 1 câu nhượng bộ có điều kiện ở mục 3, và kết thúc bằng mục 8.
 2. Đàm phán giá với nhà cung cấp về đơn hàng lớn — dùng mục 3, 4, và 6.
+
+<details>
+<summary>Bài mẫu tham khảo cho tình huống 1</summary>
+
+> **You:** Thank you for the offer — I'm genuinely excited about the role. Based on my experience and the market rate for this position, I was hoping we could discuss a salary closer to $65,000. Is there flexibility there?
+> **Employer:** We can probably go up to $60,000, but that's close to our ceiling for this level.
+> **You:** I understand budget can be tight. If you're able to move to $62,000, I'd be happy to accept and start two weeks earlier than planned.
+> **Employer:** That works for us.
+> **You:** Great, sounds like we have a deal — I'll wait for the written offer to confirm everything.
+
+*(Đề nghị ban đầu: "I was hoping we could discuss..."; nhượng bộ có điều kiện: "If you're able to move to $62,000, I'd be happy to... start two weeks earlier"; chốt thỏa thuận: "sounds like we have a deal". Không có đáp án cố định.)*
+
+</details>

@@ -49,3 +49,22 @@ Trong môi trường làm việc/du lịch thực tế, bạn sẽ gặp tiếng
 ## 8. Bài tập nhận thức
 
 Không cần đáp án — đây là bài tập phản xạ: lần tới khi bạn nghe một giọng tiếng Anh "lạ" (không phải Anh-Anh/Anh-Mỹ chuẩn), thay vì thấy khó chịu/bỏ cuộc, hãy thử áp dụng bước 1-3 ở mục 6 và ghi nhận bạn hiểu được bao nhiêu % nội dung.
+
+## 9. Bài tập kiểm tra nhanh
+
+Nối mỗi đặc điểm sau với giọng tương ứng (Úc / Ấn Độ / Singapore-Malaysia / Philippines / Trung Đông):
+
+1. Thêm tiểu từ cuối câu như "lah", "ah" và thường lược bỏ động từ "to be".
+2. Xu hướng lên giọng ở cuối câu khẳng định (uptalk); rút gọn từ nhiều ("arvo", "brekkie").
+3. Nhịp điệu câu đều đặn (syllable-timed); dùng cụm "prepone", "do the needful".
+4. Âm /p/ có thể bị đọc thành /b/ do ngôn ngữ gốc không có âm /p/.
+
+<details>
+<summary>Đáp án</summary>
+
+1. Singapore/Malaysia (Singlish/Manglish)
+2. Úc (Australian English)
+3. Ấn Độ (Indian English)
+4. Trung Đông/Ả Rập (Arabic-accented English)
+
+</details>

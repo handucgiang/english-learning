@@ -63,3 +63,22 @@ Khó hơn nghe trực tiếp vì không có ngôn ngữ cơ thể, chất lượ
 ## 6. Bài tập tổng hợp
 
 Với mỗi ngữ cảnh trên, thử tìm 1 nguồn thật (một cuộc gọi mẫu, một đoạn họp mẫu trên YouTube, một bài hát, một bài TED talk) và áp dụng đúng chiến lược tương ứng đã nêu — ghi lại bạn nghe hiểu được bao nhiêu % trước và sau khi áp dụng chiến lược.
+
+## 7. Bài tập kiểm tra nhanh
+
+Xác định cụm từ báo hiệu sau thuộc giai đoạn nào của bài thuyết trình/bài giảng (Mở đầu / Liệt kê ý / Nhấn mạnh / Chuyển ý / Kết luận):
+
+1. "That brings us to the next issue."
+2. "The key point here is that costs must come down."
+3. "To sum up, we have three priorities going forward."
+4. "First of all, let's look at the budget."
+
+<details>
+<summary>Đáp án</summary>
+
+1. Chuyển ý
+2. Nhấn mạnh
+3. Kết luận
+4. Liệt kê ý
+
+</details>

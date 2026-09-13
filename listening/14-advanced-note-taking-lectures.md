@@ -62,3 +62,24 @@ Nghe một bài TED Talk hoặc bài giảng ngắn (5-10 phút, có transcript 
 2. Nghe và ghi chú cột Notes bằng ký hiệu viết tắt.
 3. Sau khi nghe xong, dành 5 phút viết cột Cue (từ khóa/câu hỏi) và phần Summary.
 4. Che cột Notes, chỉ nhìn cột Cue — thử tự nhớ lại nội dung. So sánh với transcript gốc để kiểm tra độ chính xác.
+
+## 6. Bài tập kiểm tra nhanh
+
+Xác định cụm signpost language sau đang báo hiệu điều gì (ý quan trọng / ví dụ / số liệu / quan điểm cá nhân / đối lập giữa các nghiên cứu):
+
+1. "I would argue that..."
+2. "For instance,..."
+3. "However, this view has been challenged by..."
+4. "The key takeaway here is..."
+5. "According to a recent study,..."
+
+<details>
+<summary>Đáp án</summary>
+
+1. Quan điểm cá nhân của diễn giả
+2. Ví dụ
+3. Đối lập giữa các nghiên cứu/ý kiến
+4. Ý quan trọng
+5. Số liệu
+
+</details>

@@ -57,3 +57,12 @@ Kể lại (nói to, ghi âm, 2-3 phút) một trong các câu chuyện sau, áp
 3. Một lần bạn giải quyết thành công một vấn đề khó trong công việc.
 
 Sau khi ghi âm, nghe lại và kiểm tra: câu chuyện có mở đầu thu hút không? Có cao trào rõ ràng không? Có kết thúc để lại ấn tượng không?
+
+<details>
+<summary>Bài mẫu tham khảo (chủ đề 1: trễ giờ quan trọng)</summary>
+
+> "So this actually happened during my first big job interview. I'd planned everything perfectly — left an hour early, checked the route twice. Then, about ten minutes from the office, my bus just... stopped. Engine trouble, apparently. I remember just standing there in the rain, completely stuck, watching the minutes tick by. I ended up running the last fifteen minutes in dress shoes, completely soaked, and walked in eight minutes late. Honestly, I was sure I'd blown it. But funnily enough, I mentioned what happened, we both laughed about it, and it actually became this shared moment that broke the ice for the rest of the interview. I got the job a week later. Looking back, I think that taught me that things going wrong isn't always as costly as it feels in the moment."
+
+*(Cấu trúc 5 phần: bối cảnh → tình huống → bước ngoặt (xe hỏng) → cao trào (chạy dưới mưa, trễ giờ) → kết thúc/bài học. Kỹ thuật tạo kịch tính: câu ngắn dồn dập "I remember just standing there in the rain, completely stuck". Không có đáp án cố định.)*
+
+</details>

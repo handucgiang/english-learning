@@ -68,3 +68,28 @@ Chọn một trong các đề sau, viết dàn ý theo cấu trúc 5-paragraph e
 1. Should students be allowed to use smartphones in class?
 2. Is it better to live in a big city or a small town?
 3. Should companies require employees to return to the office full-time?
+
+<details>
+<summary>Dàn ý mẫu tham khảo (đề 2: Is it better to live in a big city or a small town?)</summary>
+
+```
+I. Mở bài
+   - Hook: nêu xu hướng ngày càng nhiều người cân nhắc rời thành phố lớn
+   - Thesis: While big cities offer more opportunities, small towns provide a better quality of life for most people.
+
+II. Thân bài
+   Đoạn 1: Lợi ích của thành phố lớn (thừa nhận trước khi phản biện)
+     - nhiều cơ hội việc làm, đa dạng dịch vụ/giải trí
+   Đoạn 2: Lợi ích của thị trấn nhỏ
+     - chi phí sinh hoạt thấp hơn, ít căng thẳng, cộng đồng gắn kết hơn
+   Đoạn 3 (phản biện): Thừa nhận nhược điểm của thị trấn nhỏ nhưng bảo vệ quan điểm
+     - ít cơ hội nghề nghiệp hơn, nhưng làm việc từ xa đang thu hẹp khoảng cách này
+
+III. Kết bài
+   - Tóm tắt: chất lượng cuộc sống ở thị trấn nhỏ thường vượt trội cho phần lớn người
+   - Mở rộng: lựa chọn phụ thuộc vào giai đoạn sự nghiệp và ưu tiên cá nhân
+```
+
+*(Không có đáp án cố định — so sánh dàn ý của bạn: có đủ 3 phần, có thesis rõ ràng, và đoạn phản biện có thừa nhận ý kiến trái chiều không?)*
+
+</details>

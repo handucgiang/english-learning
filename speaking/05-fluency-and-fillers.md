@@ -60,3 +60,12 @@ Người bản xứ thường xuyên tự sửa giữa câu — đây là điề
 ## 6. Bài tập luyện
 
 Chọn 1 câu hỏi từ [04-speaking-topics.md](04-speaking-topics.md), trả lời trong 1 phút, CỐ Ý dùng ít nhất 3 từ đệm khác nhau từ mục 1 và ít nhất 1 lần diễn giải (paraphrase) một từ bạn giả vờ quên. Ghi âm lại và nghe xem có nghe tự nhiên không hay bị gượng gạo.
+
+<details>
+<summary>Bài mẫu tham khảo (câu hỏi: "What's the most memorable trip you've ever taken?")</summary>
+
+> "Well, let me think... I'd probably say it was a trip to a small mountain town a few years back. Actually, what made it memorable wasn't really the place itself — it's, you know, more about who I went with. We stayed in this, um, what's the word... the small guesthouse thing, like a house but run by a family, not a hotel — and the owner ended up cooking dinner for us every night. So, basically, it turned into one of those trips where the plan didn't matter at all."
+
+*(Từ đệm dùng: "Well", "you know", "basically"; diễn giải: mô tả vòng quanh "guesthouse" trước khi nói ra từ. Không có đáp án cố định — so sánh bài nói của bạn xem có tự nhiên và giữ được mạch không bị dừng đột ngột không.)*
+
+</details>

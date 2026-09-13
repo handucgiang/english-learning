@@ -58,3 +58,16 @@ Không bắt buộc dùng trong mọi tình huống (tránh dùng khi thuyết t
 3. Did you eat yet? / Have you eaten yet?
 4. Let me think about it for a second.
 5. I'm not sure if I'll make it in time.
+
+<details>
+<summary>Gợi ý cách nối âm cho 5 câu trên</summary>
+
+1. "Whatcha doin' this weekend?" — "what are you" → weak forms nối liền
+2. "I'll pi-cki-tup on my way home." — "pick it up" nối 3 từ thành 1 cụm âm
+3. "Didja eat yet? / Have you eaten yet?" (weak form "have you" → /əvjə/)
+4. "Lemme think aboudit for a second." — "about it" nối, "t" giữa nguyên âm đọc lướt gần /d/
+5. "I'm not sure if uhl make it in time." — "I'll" rút gọn thành âm rất nhẹ, gần như /əl/
+
+*(Đây là cách phát âm tự nhiên gần đúng — không có "đáp án" chính xác tuyệt đối vì nối âm phụ thuộc vào tốc độ và giọng người nói; mục tiêu là luyện phản xạ nối âm, không phải đọc đúng y hệt.)*
+
+</details>

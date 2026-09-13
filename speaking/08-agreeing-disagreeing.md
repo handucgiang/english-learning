@@ -68,4 +68,16 @@ Chọn một chủ đề gây tranh cãi nhẹ nhàng (ví dụ: "Is it better t
 2. Vai 2: phản đối nhẹ nhàng bằng ít nhất 2 cụm ở mục 2, sau đó dùng "Yes, but..." để công nhận một điểm hợp lý trước khi phản biện.
 3. Kết thúc cuộc "tranh luận" bằng một cụm ở mục 7.
 
+<details>
+<summary>Đoạn hội thoại mẫu tham khảo</summary>
+
+> **Vai 1:** I really think working from home is better overall — you save so much time not commuting, and I get way more done without office distractions.
+> **Vai 2:** I see your point, but I think something gets lost without face-to-face interaction. That's true, but on the other hand, a lot of collaboration happens informally, in hallway chats, that just doesn't happen over chat apps.
+> **Vai 1:** Yes, that's fair, but I'd say scheduled video calls can cover most of that if the team is intentional about it.
+> **Vai 2:** Maybe we can find a middle ground — like a hybrid setup, a few days in office for collaboration, rest from home for focus work.
+
+*(Phản đối nhẹ nhàng: "I see your point, but...", "That's true, but on the other hand..."; kết thúc: "Maybe we can find a middle ground." Không có đáp án cố định — miễn có đủ cấu trúc phản đối lịch sự + kết luận xây dựng.)*
+
+</details>
+
 Ghi âm cả hai vai và nghe lại để kiểm tra độ tự nhiên.

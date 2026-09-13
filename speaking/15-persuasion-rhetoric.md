@@ -70,4 +70,13 @@ Chọn một chủ đề bạn tin tưởng (ví dụ: "Companies should offer m
 3. 1 câu hỏi tu từ.
 4. Cấu trúc Problem → Consequence → Solution.
 
+<details>
+<summary>Bài mẫu tham khảo</summary>
+
+> "Right now, most employees are stuck working the same rigid nine-to-five schedule their parents worked decades ago. *(Problem)* And every year, we lose good people — not because they can't do the job, but because the schedule doesn't fit their lives. *(Consequence)* Isn't it time we asked whether the hours matter more than the results? *(câu hỏi tu từ)* That's why flexible hours make sense: they're not about working less — they're about working smarter, happier, and longer-term. *(Rule of Three)* It's not about clocking in on time — it's about showing up with energy. *(đối lập tương phản)* That's exactly why we should pilot flexible hours starting next quarter. *(Solution)*"
+
+*(Không có đáp án cố định — kiểm tra bài của bạn có đủ 4 yếu tố yêu cầu và nghe có sức thuyết phục hơn so với chỉ liệt kê lý do thông thường không.)*
+
+</details>
+
 Ghi âm và nghe lại — đoạn nói có tạo cảm giác thuyết phục hơn khi so với việc chỉ liệt kê lý do thông thường không?

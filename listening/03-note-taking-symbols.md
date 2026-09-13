@@ -60,3 +60,22 @@ Meeting: Q3 sales
 - Không cố ghi mọi câu — chỉ ghi ý chính và từ khóa, phần còn lại tái dựng lại bằng trí nhớ.
 - Dùng dấu `?` bên cạnh chỗ nghe không chắc, để sau đó hỏi lại hoặc kiểm tra.
 - Sau buổi nghe, dành 2–3 phút viết lại ghi chú thành câu hoàn chỉnh trong khi trí nhớ còn mới — giúp nhớ lâu hơn.
+
+## 5. Bài tập
+
+Viết lại các câu sau bằng ký hiệu viết tắt (dùng các ký hiệu ở mục 1-2):
+
+1. "Revenue increased because of the new marketing campaign, therefore we should increase the budget."
+2. "The department needs more staff before the deadline, especially in management."
+3. "We are not sure about the number of clients, approximately 50, but we need to check."
+
+<details>
+<summary>Đáp án gợi ý</summary>
+
+1. "Revenue ↑ b/c new marketing campaign ∴ ↑ budget"
+2. "Dept needs more staff b/4 deadline, esp. mgmt"
+3. "? no. of clients, approx. 50, need to check"
+
+*(Không có đáp án duy nhất — miễn ghi chú của bạn ngắn gọn, dùng đúng ký hiệu, và có thể đọc lại hiểu đúng ý gốc là đạt yêu cầu.)*
+
+</details>

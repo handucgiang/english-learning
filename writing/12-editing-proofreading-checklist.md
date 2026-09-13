@@ -50,3 +50,18 @@ Viết xong không có nghĩa là hoàn thành — bước biên tập lại th�
 ## 6. Bài tập
 
 Lấy lại một đoạn văn bạn đã viết trước đó (ví dụ một bài trong [04-writing-practice-prompts.md](04-writing-practice-prompts.md)). Áp dụng quy trình 2 bước: Editing trước (dùng checklist mục 2), sau đó Proofreading (dùng checklist mục 3). So sánh bản trước và sau khi sửa — liệt kê ít nhất 3 lỗi/điểm cải thiện cụ thể bạn tìm thấy.
+
+## 7. Bài tập soát lỗi có đáp án
+
+Tìm và sửa các lỗi proofreading trong đoạn văn sau (có 6 lỗi):
+
+> "Is very important to check your work before you send it. Many people dont proofread they're writing carefully, wich lead to mistakes that could of been avoided. My manager always tell me to read out loud, it's help catch errors your eyes might miss."
+
+<details>
+<summary>Đáp án</summary>
+
+Bản đã sửa: "**It** is very important to check your work before you send it. Many people **don't** proofread **their** writing carefully, **which leads** to mistakes that could **have** been avoided. My manager always **tells** me to read out loud — **it helps** catch errors your eyes might miss."
+
+Danh sách lỗi: (1) thiếu chủ ngữ giả "It"; (2) "dont" thiếu dấu nháy → "don't"; (3) "they're" (they are) dùng sai, cần "their" (sở hữu); (4) "wich lead" → "which leads" (chính tả + chia động từ số ít vì "which" thay cho mệnh đề số ít); (5) "could of" → "could have" (lỗi nghe-viết phổ biến); (6) "manager always tell" → "manager always tells" (thiếu -s ngôi 3 số ít); "it's help" → "it helps" (chia sai + apostrophe sai).
+
+</details>

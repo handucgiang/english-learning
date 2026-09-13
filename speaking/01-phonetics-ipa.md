@@ -65,3 +65,22 @@
 3. Luyện với minimal pairs ở trên.
 4. Ghi âm giọng mình đọc, so sánh với bản mẫu.
 5. Áp dụng vào câu đầy đủ, không chỉ từ đơn lẻ.
+
+## 6. Bài tập
+
+Xác định phiên âm IPA đúng cho các từ sau (chọn giữa 2 lựa chọn):
+
+1. "think" — /θɪŋk/ hay /sɪŋk/?
+2. "very" — /ˈveri/ hay /ˈweri/?
+3. "ship" — /ʃɪp/ hay /siːp/?
+4. "she" — /ʃiː/ hay /siː/?
+
+<details>
+<summary>Đáp án</summary>
+
+1. /θɪŋk/ — âm "th" là /θ/, không phải /s/ (lỗi phổ biến của người Việt).
+2. /ˈveri/ — chữ "v" đọc bằng răng trên chạm môi dưới, không phải /w/.
+3. /ʃɪp/ — nguyên âm ngắn /ɪ/, không phải /iː/ dài (nếu đọc /siːp/ sẽ thành "sheep").
+4. /ʃiː/ — âm /ʃ/ (she) khác với /s/ (see).
+
+</details>

@@ -108,3 +108,28 @@ Chọn 1 trong các tình huống sau và viết văn bản tương ứng (100-1
 1. Viết một memo thông báo thay đổi giờ làm việc từ tuần sau.
 2. Viết biên bản tóm tắt (chỉ phần Agenda Item + Action Items) cho một cuộc họp về việc chọn nhà cung cấp mới.
 3. Viết một đề xuất ngắn gọn cho sếp về việc mua thêm phần mềm quản lý dự án cho team.
+
+<details>
+<summary>Bài mẫu tham khảo cho tình huống 1</summary>
+
+```
+MEMO
+
+To: All Staff
+From: HR Department
+Date: [Date]
+Subject: Updated Office Hours Starting Next Week
+
+This is to inform all staff that, starting Monday, office hours will shift
+from 8:00 AM-5:00 PM to 9:00 AM-6:00 PM.
+
+This change was made based on feedback from the recent staff survey,
+which showed a strong preference for a later start time.
+
+Please update your calendars accordingly. If this change creates a
+scheduling conflict, contact your manager to discuss options.
+```
+
+*(Không có đáp án cố định — so sánh bài viết của bạn: có đủ cấu trúc To/From/Date/Subject, đi thẳng vào thông tin chính, và có hành động cần thực hiện rõ ràng không?)*
+
+</details>

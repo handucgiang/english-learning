@@ -68,3 +68,17 @@ Luyện với một người bạn (hoặc tự đóng cả hai vai, ghi âm t�
 1. Người nghe dùng ít nhất 3 backchannel khác nhau.
 2. Người nghe chen lời ít nhất 1 lần bằng cụm lịch sự ở mục 2.
 3. Người nói dùng ít nhất 1 cụm để giữ lượt nói ("hold that thought...") trước khi trả lời.
+
+<details>
+<summary>Đoạn hội thoại mẫu tham khảo</summary>
+
+> **A:** So I was thinking about switching teams next quarter, mostly because—
+> **B:** Uh-huh.
+> **A:** —because I feel like I've stopped learning anything new in my current role.
+> **B:** Sorry to jump in — have you talked to your manager about it yet?
+> **A:** Hold that thought, let me finish this part first — no, not yet, I wanted to think it through on my own before bringing it up.
+> **B:** Right, that makes sense. Go on.
+
+*(Backchannel: "Uh-huh", "Right"; chen lời lịch sự: "Sorry to jump in —"; giữ lượt nói: "Hold that thought, let me finish this part first". Không có đáp án cố định — miễn hội thoại của bạn có đủ 3 yếu tố yêu cầu.)*
+
+</details>

@@ -60,3 +60,15 @@ Cấu trúc: Bạn là ai → Bạn làm gì/giá trị gì → Bạn đang tìm
 ## 6. Bài tập luyện ứng biến
 
 Nhờ một người bạn hỏi ngẫu nhiên (không báo trước) 3 câu hỏi thuộc 3 dạng khác nhau — 1 câu hỏi hành vi ("Tell me about a time..."), 1 câu hỏi ý kiến ("Do you think..."), và 1 yêu cầu giới thiệu bản thân nhanh. Áp dụng đúng khung tương ứng (STAR / OREO / Elevator Pitch), trả lời trong vòng 60-90 giây mỗi câu, KHÔNG chuẩn bị trước. Ghi âm và tự đánh giá theo rubric tại [13-self-assessment-rubric.md](13-self-assessment-rubric.md).
+
+<details>
+<summary>Bài mẫu tham khảo (câu hỏi ý kiến: "Do you think AI will replace most jobs?")</summary>
+
+> **O:** "I don't think it'll replace most jobs, but it will change almost all of them."
+> **R:** "Because most jobs involve a mix of routine and judgment-based tasks, and AI is only really good at the routine part so far."
+> **E:** "For example, my own job involves writing reports, and AI can draft the first version now, but I still need to check the numbers and decide what actually matters to include."
+> **O:** "So overall, I'd say it's less about replacement and more about every job needing a new set of skills."
+
+*(Không có đáp án cố định — kiểm tra bài của bạn có đủ cấu trúc O-R-E-O và trả lời trong thời gian quy định (60-90 giây) mà không cần chuẩn bị trước không.)*
+
+</details>

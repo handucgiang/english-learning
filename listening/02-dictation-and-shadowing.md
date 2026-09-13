@@ -48,3 +48,18 @@ Shadowing là kỹ thuật vừa nghe vừa nói lặp lại gần như đồng 
 | Thứ 2, 4, 6 | Dictation 1 đoạn ngắn mới |
 | Thứ 3, 5, 7 | Shadowing lại đoạn đã dictation trước đó |
 | Chủ nhật | Nghe tự do (podcast/TED) không ghi chép, chỉ để "tắm ngôn ngữ" |
+
+## 4. Bài tập
+
+1. Nhờ người khác đọc to (hoặc dùng text-to-speech) đoạn văn mẫu ở mục 1, chép chính tả lại theo đúng quy trình 5 bước đã nêu.
+2. Trả lời nhanh: 3 nhóm lỗi cần phân loại sau khi dictation là gì?
+3. Trả lời nhanh: bước nào trong quy trình shadowing được coi là quan trọng nhất, và vì sao?
+
+<details>
+<summary>Đáp án</summary>
+
+1. Đáp án chính là đoạn văn mẫu gốc — đối chiếu bài chép của bạn với nguyên văn: "Last weekend, I went to a small coffee shop near my house. It wasn't crowded, so I could sit by the window and read for almost two hours. I didn't expect to enjoy it that much, but it turned out to be one of the most relaxing afternoons I've had in a while." Đếm số từ sai/thiếu để tự chấm điểm.
+2. (1) Sai do không biết từ, (2) Sai do nối âm/lướt âm, (3) Sai do đoán nhầm ngữ pháp.
+3. Bước "Shadowing không nhìn transcript" — vì đây là lúc bạn thực sự dựa hoàn toàn vào tai để bắt kịp người nói, thay vì đọc theo chữ viết, giúp xây phản xạ nghe-nói thật sự.
+
+</details>

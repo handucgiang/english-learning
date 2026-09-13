@@ -51,3 +51,30 @@ Song song với [speaking/19-register-cultural-adaptation.md](../speaking/19-reg
 Viết lại email sau theo 2 phong cách khác nhau — một cho đối tác Đức (trực tiếp), một cho đối tác Nhật (gián tiếp, xây dựng bối cảnh trước):
 
 > Nội dung cần truyền tải: dự án bị trễ 2 tuần do vấn đề kỹ thuật, cần thông báo cho đối tác và xin gia hạn deadline giao hàng.
+
+<details>
+<summary>Bài mẫu tham khảo</summary>
+
+**Cho đối tác Đức (trực tiếp, đi thẳng vào vấn đề):**
+> "Subject: Delivery Delay — Revised Timeline Needed
+>
+> Dear Mr. Schmidt,
+>
+> The project will be delayed by two weeks due to a technical issue in our production line. We request an extension of the delivery deadline to [new date]. We have identified the root cause and implemented additional quality checks to prevent recurrence.
+>
+> Please confirm if this revised timeline works on your end."
+
+**Cho đối tác Nhật (gián tiếp, xây dựng bối cảnh trước):**
+> "Subject: Update on Project Timeline
+>
+> Dear Mr. Tanaka,
+>
+> Thank you very much for your continued trust and support throughout this project. We have been carefully monitoring progress at every stage, and unfortunately encountered an unexpected technical issue that has affected our production timeline.
+>
+> Given this situation, we would be very grateful if you could kindly consider extending the delivery deadline by two weeks. We sincerely apologize for any inconvenience this may cause, and we are taking every step to ensure the same issue does not occur again.
+>
+> We greatly appreciate your understanding and look forward to your reply."
+
+*(Không có đáp án cố định — so sánh bài của bạn: bản cho đối tác Đức có đi thẳng vào vấn đề ngay từ đầu không; bản cho đối tác Nhật có xây dựng bối cảnh/thể hiện tôn trọng trước khi nêu yêu cầu không?)*
+
+</details>

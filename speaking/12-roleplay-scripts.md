@@ -82,3 +82,21 @@ Cách luyện: đọc kịch bản với một người bạn (mỗi người 1 
 2. Đóng cả 2 vai, đọc to (không cần diễn cảm quá mức, chỉ cần rõ ràng).
 3. Che kịch bản, chỉ giữ lại 1-2 từ khóa gợi ý cho mỗi câu, thử tự nói lại theo trí nhớ.
 4. Biến tấu tình huống: đổi chi tiết (tên khách sạn, số ngày, lý do phỏng vấn...) và tự ứng biến hội thoại tương tự mà không có kịch bản.
+
+## 7. Bài tập
+
+Áp dụng bước 4 ở trên: chọn kịch bản "Trả hàng ở cửa hàng" (mục 3), đổi tình huống thành "đổi trả một đôi giày bị lỗi" và tự viết/nói lại toàn bộ hội thoại (cả 2 vai) mà không nhìn kịch bản gốc.
+
+<details>
+<summary>Bài mẫu tham khảo</summary>
+
+> **You:** Hi, I'd like to return these shoes — there's a defect on the left one.
+> **Staff:** Oh, I'm sorry to hear that. Do you have the receipt?
+> **You:** Yes, here it is. I bought them last week.
+> **Staff:** Thanks. Would you like a refund, or should I check if we have a replacement pair without the defect?
+> **You:** A replacement would be great, if you have it in stock.
+> **Staff:** Let me check... Yes, we do. I'll get that swapped out for you right away.
+
+*(Không có đáp án duy nhất — so sánh cấu trúc hội thoại của bạn với bài mẫu: có đủ các bước nêu vấn đề → xác nhận thông tin → đề xuất giải pháp → xác nhận kết thúc không?)*
+
+</details>

@@ -59,3 +59,18 @@ Một kỹ thuật rất hiệu quả: chọn một đoạn văn mẫu hay (ví 
 - Tự phát hiện và sửa lỗi ngay khi đang viết, không cần đợi bước proofreading mới nhận ra.
 - Đọc lại bài viết cũ (vài tháng trước) thấy rõ câu văn ngày đó đơn giản/rời rạc hơn hiện tại — đây là dấu hiệu tiến bộ rõ ràng nhất.
 - Bắt đầu có "giọng văn" riêng, không chỉ ghép câu đúng ngữ pháp mà còn tự nhiên, mạch lạc.
+
+## 8. Bài tập
+
+1. Viết tự do (freewriting) trong 5 phút về "Điều khiến hôm nay của tôi khác với mọi ngày" — không dừng lại sửa lỗi.
+2. Sau khi hết giờ, đọc lại và tự trả lời: đoạn viết của bạn có đúng tinh thần freewriting (viết liên tục không ngắt mạch) không, hay bạn đã dừng lại tra từ điển/sửa lỗi giữa chừng?
+3. Trả lời nhanh: kỹ thuật "viết lại" (rewriting) ở mục 5 hoạt động như thế nào?
+
+<details>
+<summary>Đáp án cho câu 3</summary>
+
+Chọn một đoạn văn mẫu hay, đọc kỹ để hiểu nội dung và cách diễn đạt, sau đó GẤP LẠI (không nhìn bản gốc) và tự viết lại đoạn văn tương tự bằng lời của mình — không cần giống hệt. Sau đó so sánh bản của mình với bản gốc để học cách diễn đạt, từ nối, và cấu trúc câu hay mà mình chưa nghĩ ra.
+
+*(Câu 1-2 không có đáp án cố định — đây là bài tập tự phản tư, mục tiêu là nhận diện xem bạn có đang giữ đúng nguyên tắc "viết liên tục, không dừng sửa lỗi" hay chưa.)*
+
+</details>

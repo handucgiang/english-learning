@@ -93,3 +93,18 @@ CV mạnh luôn có SỐ LIỆU cụ thể thay vì mô tả chung chung:
 
 1. Viết lại 3 câu mô tả kinh nghiệm làm việc của bạn (thật hoặc giả định), áp dụng động từ hành động mạnh + số liệu cụ thể theo mục 3-4.
 2. Viết một đoạn mở đầu cover letter (3-4 câu) cho một vị trí công việc bạn quan tâm, áp dụng cấu trúc ở mục 5.
+
+<details>
+<summary>Bài mẫu tham khảo</summary>
+
+**Câu 1 (động từ hành động + số liệu):**
+> "Led a team of 5 to redesign the onboarding process, reducing new-hire ramp-up time by 20%."
+> "Developed a customer feedback system that increased survey response rates by 35%."
+> "Streamlined the monthly reporting process, cutting preparation time from 3 days to 1."
+
+**Câu 2 (đoạn mở đầu cover letter):**
+> "I am writing to apply for the Project Coordinator position at Brightline Solutions, as advertised on your careers page. With three years of experience managing cross-functional projects in a fast-paced tech environment, I believe I would bring both structure and adaptability to your team. I was especially drawn to Brightline's focus on sustainable product design, which aligns closely with my own values in my current role."
+
+*(Không có đáp án cố định — so sánh với bài của bạn: câu 1 có dùng động từ mạnh + số liệu cụ thể không; câu 2 có nêu rõ vị trí ứng tuyển, thế mạnh liên quan, và lý do quan tâm đến công ty cụ thể đó không?)*
+
+</details>

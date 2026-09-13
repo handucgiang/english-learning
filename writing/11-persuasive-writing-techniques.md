@@ -68,3 +68,12 @@ Viết một đoạn văn ngắn (150 từ) thuyết phục đồng nghiệp/s�
 2. Cấu trúc Problem-Agitate-Solve từ mục 5.
 3. Một câu phản biện trước (preemptive rebuttal) từ mục 6.
 4. Một lời kêu gọi hành động rõ ràng từ mục 7.
+
+<details>
+<summary>Bài mẫu tham khảo</summary>
+
+> "What if our meetings could be 30% shorter without losing anything important? *(hook)* Right now, most of our team meetings run well past their scheduled time, eating into hours we could spend on actual work. *(Problem)* Over a year, that adds up to dozens of hours lost — time that could go toward the projects that actually move the needle. *(Agitate)* That's why I'd like to propose switching to standing meetings for our daily check-ins: research consistently shows they run shorter without reducing the quality of discussion. Some might worry this feels rushed or informal, but in practice, teams report staying just as aligned, simply more efficiently. *(Solve + preemptive rebuttal)* Let's try it for two weeks starting Monday and revisit how it went at our next retro. *(call to action)*"
+
+*(Không có đáp án cố định — kiểm tra bài của bạn có đủ 4 yếu tố yêu cầu và có lời kêu gọi hành động CỤ THỂ (không mơ hồ) không.)*
+
+</details>

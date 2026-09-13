@@ -59,3 +59,19 @@ Ví dụ với câu "Do you prefer traveling alone or with others?":
 > **Reason:** because it's more fun to share experiences in the moment, not just look back on photos later.
 > **Example:** Last year, I went hiking with two friends, and even though we got lost for an hour, it turned into one of the funniest stories we still talk about.
 > **Point:** So for me, who I travel with matters more than where I go.
+
+## 7. Bài tập
+
+Chọn 3 câu hỏi bất kỳ từ các mục 1-5 (mỗi mục 1 câu), trả lời mỗi câu trong 1-2 phút theo cấu trúc PREP, ghi âm lại.
+
+<details>
+<summary>Bài mẫu tham khảo (câu hỏi: "What are your career goals for the next five years?")</summary>
+
+> **Point:** My main goal over the next five years is to grow into a leadership role within my field.
+> **Reason:** I've realized that what energizes me most isn't just doing the work myself, but helping a team do it well together.
+> **Example:** In my current job, I recently mentored a new team member, and seeing her grow more confident over a few months was honestly more satisfying than finishing my own tasks.
+> **Point:** So that's really my direction — building the skills now so I can take on more of that responsibility down the line.
+
+*(Đây chỉ là 1 bài mẫu tham khảo — không có "đáp án đúng" duy nhất cho câu hỏi mở. So sánh bài nói của bạn với cấu trúc PREP: có đủ 4 phần Point-Reason-Example-Point không?)*
+
+</details>

@@ -49,3 +49,17 @@ Từ/cụm mới học được từ buổi này: ___________
 - Tự sửa lỗi ngay trong lúc nói (thay vì không nhận ra lỗi).
 - Nghe lại bản ghi âm cũ thấy "sao lúc đó mình nói chậm/vấp nhiều vậy" — đây là dấu hiệu tích cực, không phải điều đáng lo.
 - Có thể diễn giải (paraphrase) khi quên từ, thay vì im lặng hoàn toàn.
+
+## 6. Bài tập
+
+Thực hiện đúng quy trình ở mục 1: ghi âm bản thân nói 2 phút về 1 chủ đề trong [04-speaking-topics.md](04-speaking-topics.md), sau đó tự chấm điểm theo rubric ở mục 2 và điền vào nhật ký tiến bộ ở mục 4.
+
+<details>
+<summary>Gợi ý cách tự chấm (không có đáp án cố định — đây là công cụ tự đánh giá)</summary>
+
+Vì đây là bài tự đánh giá cho chính giọng nói của bạn, không có "đáp án đúng" — nhưng để chấm khách quan hơn:
+- Nghe lại bản ghi âm ít nhất 2 lần trước khi chấm điểm (lần 1 nghe tổng thể, lần 2 chấm từng tiêu chí).
+- So sánh với 1 đoạn ghi âm mẫu (ví dụ transcript trong [listening/09-practice-dialogue-daily-life.md](../listening/09-practice-dialogue-daily-life.md)) để có chuẩn tham chiếu về tốc độ/ngữ điệu tự nhiên.
+- Nếu có thể, nhờ người khác nghe và chấm độc lập, rồi so sánh với điểm tự chấm của bạn — thường sẽ có chênh lệch, đặc biệt ở tiêu chí phát âm/ngữ điệu vì tai bạn quen với giọng của chính mình.
+
+</details>

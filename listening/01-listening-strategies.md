@@ -56,3 +56,24 @@ Tiếng Anh tự nhiên có hiện tượng nối âm khiến câu nghe khác h�
 | Cao cấp | Podcast tin tức thường tốc độ (NPR, BBC News), phim không phụ đề |
 
 *(Tự tìm kênh/podcast theo tên trên nền tảng bạn hay dùng — YouTube, Spotify, Apple Podcasts.)*
+
+## 8. Bài tập kiểm tra hiểu chiến lược
+
+Trả lời nhanh các câu hỏi sau để kiểm tra bạn đã nắm đúng chiến lược chưa:
+
+1. Ở lượt nghe đầu tiên, bạn nên tập trung vào điều gì: ý chính hay từng từ chi tiết?
+2. Khi không nghe được một từ giữa câu, bạn nên dừng lại suy nghĩ hay tiếp tục nghe?
+3. Loại từ nào nên ưu tiên nghe: từ chức năng (a, the, is) hay từ mang nội dung (danh từ, động từ, số liệu)?
+4. Vì sao nên dự đoán chủ đề TRƯỚC khi nghe, thay vì chỉ nghe rồi mới hiểu dần?
+5. Theo quy trình 6 bước, bước nào nên làm SAU CÙNG: shadowing câu khó, hay nghe lần đầu không xem transcript?
+
+<details>
+<summary>Đáp án</summary>
+
+1. Ý chính — nghe lấy ý chính trước, chi tiết để lại cho các lượt nghe sau.
+2. Tiếp tục nghe — dừng lại suy nghĩ sẽ khiến bạn mất luôn phần câu tiếp theo.
+3. Từ mang nội dung (danh từ, động từ, số liệu) — từ chức năng có thể bỏ qua mà không ảnh hưởng đến việc hiểu ý.
+4. Vì dự đoán giúp não "chuẩn bị sẵn" từ vựng liên quan, giảm tải xử lý khi nghe thật, giúp bắt kịp tốc độ người nói tốt hơn.
+5. Shadowing câu khó nên làm sau cùng — nghe lần đầu không xem transcript luôn là bước đầu tiên trong quy trình.
+
+</details>

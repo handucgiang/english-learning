@@ -64,3 +64,12 @@ Khác với từ nối trong văn viết ([writing/01-writing-basics-connectors.
 ## 8. Bài tập
 
 Ghi âm bản thân kể một câu chuyện ngắn (2 phút) về một trải nghiệm gần đây, cố ý sử dụng ít nhất 5 discourse marker khác nhau ở trên (ví dụ: "so anyway", "speaking of which", "long story short", "that said", "at the end of the day"). Nghe lại và kiểm tra xem các từ nối có được dùng đúng chỗ và nghe tự nhiên không.
+
+<details>
+<summary>Bài mẫu tham khảo</summary>
+
+> "So, this happened last month — I was trying to fix my bike, and long story short, I ended up making it worse. Anyway, I called my neighbor for help. He's actually really good with tools — speaking of which, he just started fixing bikes for people in the building as a side thing. That said, even he struggled with mine for a bit. At the end of the day, we got it working, but it took way longer than expected."
+
+*(Discourse markers dùng: "So", "long story short", "Anyway", "speaking of which", "That said", "At the end of the day" — 6 cụm. Không có đáp án cố định, miễn bài của bạn dùng đúng ngữ cảnh từng cụm.)*
+
+</details>

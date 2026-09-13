@@ -38,3 +38,24 @@
 - "I think I lost my passport." — Tôi nghĩ tôi đã làm mất hộ chiếu.
 - "Can you call a doctor, please?" — Bạn gọi giúp tôi bác sĩ được không?
 - "I need to report a stolen item." — Tôi cần báo cáo một món đồ bị mất cắp.
+
+## Bài tập
+
+Chọn mẫu câu phù hợp nhất cho mỗi tình huống sau:
+
+1. Bạn vừa phát hiện mình làm mất hộ chiếu ở nước ngoài.
+2. Bạn muốn biết nhà hàng có món nào ngon nên gọi.
+3. Bạn tới khách sạn và cần xác nhận phòng đã đặt trước.
+4. Bạn đang ở khu chợ và muốn thương lượng giá.
+5. Bạn muốn biết địa điểm nào đó có đi bộ tới được không.
+
+<details>
+<summary>Đáp án gợi ý</summary>
+
+1. "I think I lost my passport."
+2. "What do you recommend?"
+3. "I have a reservation under the name [tên]."
+4. "Can you give me a discount?"
+5. "Is it within walking distance?"
+
+</details>

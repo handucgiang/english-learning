@@ -94,3 +94,26 @@ Linh
 ## 5. Bài tập
 
 Viết một email (5–7 câu) gửi cho quản lý để báo cáo rằng bạn sẽ hoàn thành báo cáo trễ 1 ngày so với deadline, kèm lý do và đề xuất mốc thời gian mới.
+
+<details>
+<summary>Bài mẫu tham khảo</summary>
+
+```
+Subject: Slight Delay on the Quarterly Report
+
+Hi [Manager's name],
+
+I wanted to give you a heads-up that the quarterly report will be about
+a day later than planned. We ran into a data issue from the finance team
+that took longer to resolve than expected.
+
+I expect to have the final version to you by end of day Thursday instead
+of Wednesday. Please let me know if this causes any issues on your end.
+
+Thanks for your understanding,
+[Your name]
+```
+
+*(Không có đáp án cố định — so sánh bài viết của bạn: có đủ mục đích rõ ràng, lý do ngắn gọn (không đổ lỗi), và mốc thời gian mới cụ thể không?)*
+
+</details>

@@ -35,3 +35,24 @@
 
 - "Thank you for your time. I look forward to hearing from you." — Cảm ơn thời gian của bạn. Tôi mong sớm nhận được phản hồi.
 - "Please let me know if you need any more information from me." — Xin cho tôi biết nếu cần thêm thông tin gì từ tôi.
+
+## Bài tập
+
+Chọn cụm câu phù hợp nhất để trả lời/mở đầu cho mỗi tình huống sau:
+
+1. Nhà tuyển dụng hỏi bạn thấy mình ở đâu trong 5 năm tới.
+2. Bạn muốn hỏi ngược lại về văn hóa làm việc của đội nhóm.
+3. Nhà tuyển dụng hỏi về điểm yếu lớn nhất của bạn.
+4. Bạn muốn kết thúc buổi phỏng vấn một cách lịch sự, thể hiện mong chờ phản hồi.
+5. Bạn cần trả lời câu hỏi "Vì sao bạn muốn làm việc ở đây?"
+
+<details>
+<summary>Đáp án gợi ý</summary>
+
+1. "I see myself growing into a role with more responsibility, ideally in [lĩnh vực/hướng đi]."
+2. "What is the team culture like?"
+3. "I used to struggle with [điểm yếu], but I've been working on it by [cách khắc phục]."
+4. "Thank you for your time. I look forward to hearing from you."
+5. "I admire your company's approach to [lĩnh vực], and I believe my skills in [kỹ năng] would be a great fit."
+
+</details>
