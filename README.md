@@ -25,6 +25,11 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 - [16 - Kinh doanh & Tài chính](vocabulary/16-business-and-finance.md)
 - [17 - Xã hội & Các vấn đề thời sự](vocabulary/17-society-and-current-issues.md)
 - [18 - Từ vựng học thuật thông dụng (Academic Word List)](vocabulary/18-academic-word-list.md)
+- [19 - Internet & Mạng xã hội](vocabulary/19-internet-and-social-media.md)
+- [20 - Lập trình & Phát triển phần mềm](vocabulary/20-software-development.md)
+- [21 - Thiết bị điện tử & Đồ công nghệ](vocabulary/21-devices-and-gadgets.md)
+- [22 - AI & Công nghệ mới nổi](vocabulary/22-ai-and-emerging-tech.md)
+- [23 - Giao tiếp số & An toàn trực tuyến](vocabulary/23-digital-communication-online-safety.md)
 
 ### 📖 Ngữ pháp ([grammar/](grammar/))
 - [01 - Các thì hiện tại](grammar/01-present-tenses.md)
