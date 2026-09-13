@@ -90,6 +90,15 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 - [02 - Bài đọc: Đời sống hằng ngày](reading/02-passage-daily-life.md)
 - [03 - Bài đọc: Công sở](reading/03-passage-workplace.md)
 - [04 - Bài đọc: Chủ đề tổng quát](reading/04-passage-general-topic.md)
+- [05 - Đoán nghĩa từ qua Cấu tạo từ (Prefixes, Suffixes, Roots)](reading/05-vocabulary-word-parts.md)
+- [06 - Đọc theo Thể loại Văn bản](reading/06-text-types-and-genres.md)
+- [07 - Đọc phản biện (Critical Reading)](reading/07-critical-reading.md)
+- [08 - Suy luận & Liên kết văn bản](reading/08-inference-and-cohesion.md)
+- [09 - Các dạng câu hỏi đọc hiểu](reading/09-comprehension-question-types.md)
+- [10 - Bài đọc: Luận nêu quan điểm](reading/10-passage-opinion-essay.md)
+- [11 - Bài đọc: Truyện ngắn](reading/11-passage-narrative-story.md)
+- [12 - Bài đọc: Báo cáo công việc](reading/12-passage-business-report.md)
+- [13 - Xây dựng thói quen đọc lâu dài](reading/13-building-reading-habit.md)
 
 ### ✍️ Kỹ năng Viết ([writing/](writing/))
 - [01 - Nền tảng & Từ nối câu](writing/01-writing-basics-connectors.md)
@@ -109,7 +118,7 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 | 2. Xây phản xạ nghe-nói | Luyện nghe chủ động (dictation) + shadowing hằng ngày, âm nối, giọng vùng miền, nghe theo ngữ cảnh thực tế; nói: phát âm, trọng âm, độ trôi chảy, ngắt lời/tranh luận, thuyết trình | `listening/`, `speaking/` |
 | 3. Mở rộng ngữ pháp & từ vựng | Bị động, tường thuật, mệnh đề quan hệ, modal verbs, mạo từ, giới từ, so sánh... + từ vựng chủ đề mới | `grammar/05-16`, `vocabulary/05-08` |
 | 3.5. Ngữ pháp nâng cao | Câu khiến, wish/quá khứ giả định, used to, mệnh đề mục đích/kết quả/nhượng bộ, mệnh đề danh từ, hòa hợp chủ-vị, tỉnh lược | `grammar/17-23` |
-| 4. Đọc – Viết chủ động | Luyện đọc hiểu + viết đoạn văn/email/bài luận | `reading/`, `writing/` |
+| 4. Đọc – Viết chủ động | Đọc hiểu, đọc phản biện, suy luận, đa dạng thể loại + viết đoạn văn/email/bài luận | `reading/`, `writing/` |
 | 5. Tự nhiên hóa ngôn ngữ | Idioms, phrasal verbs, luyện nói theo chủ đề, hội thoại thực tế | `idioms-phrasal-verbs/`, `phrases/`, `speaking/04` |
 
 ## Cách dùng gợi ý
