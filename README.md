@@ -69,6 +69,15 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 - [02 - Trọng âm & Ngữ điệu](speaking/02-word-stress-intonation.md)
 - [03 - Kỹ thuật Shadowing chi tiết](speaking/03-shadowing-technique.md)
 - [04 - Chủ đề luyện nói hằng ngày](speaking/04-speaking-topics.md)
+- [05 - Độ trôi chảy & Từ đệm (Fluency & Fillers)](speaking/05-fluency-and-fillers.md)
+- [06 - Từ nối trong hội thoại (Spoken Discourse Markers)](speaking/06-discourse-markers-spoken.md)
+- [07 - Ngắt lời lịch sự & Duy trì lượt nói](speaking/07-turn-taking-backchanneling.md)
+- [08 - Đồng ý, Phản đối & Tranh luận lịch sự](speaking/08-agreeing-disagreeing.md)
+- [09 - Thuyết trình & Nói trước đám đông](speaking/09-presentation-public-speaking.md)
+- [10 - Kể chuyện (Storytelling)](speaking/10-storytelling-techniques.md)
+- [11 - Xử lý tình huống giao tiếp khó](speaking/11-difficult-conversations.md)
+- [12 - Kịch bản nhập vai (Roleplay Scripts)](speaking/12-roleplay-scripts.md)
+- [13 - Tự đánh giá & Theo dõi tiến bộ](speaking/13-self-assessment-rubric.md)
 
 ### 📄 Kỹ năng Đọc ([reading/](reading/))
 - [01 - Chiến lược đọc hiểu](reading/01-reading-strategies.md)
@@ -91,7 +100,7 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 | Giai đoạn | Trọng tâm | Tài liệu chính |
 |---|---|---|
 | 1. Nền tảng | Từ vựng cơ bản + ngữ pháp thì + phát âm IPA | `vocabulary/01-04`, `grammar/01-04`, `speaking/01` |
-| 2. Xây phản xạ nghe-nói | Luyện nghe chủ động (dictation) + shadowing hằng ngày, âm nối, giọng vùng miền, nghe theo ngữ cảnh thực tế | `listening/`, `speaking/02-04` |
+| 2. Xây phản xạ nghe-nói | Luyện nghe chủ động (dictation) + shadowing hằng ngày, âm nối, giọng vùng miền, nghe theo ngữ cảnh thực tế; nói: phát âm, trọng âm, độ trôi chảy, ngắt lời/tranh luận, thuyết trình | `listening/`, `speaking/` |
 | 3. Mở rộng ngữ pháp & từ vựng | Bị động, tường thuật, mệnh đề quan hệ, modal verbs, mạo từ, giới từ, so sánh... + từ vựng chủ đề mới | `grammar/05-16`, `vocabulary/05-08` |
 | 3.5. Ngữ pháp nâng cao | Câu khiến, wish/quá khứ giả định, used to, mệnh đề mục đích/kết quả/nhượng bộ, mệnh đề danh từ, hòa hợp chủ-vị, tỉnh lược | `grammar/17-23` |
 | 4. Đọc – Viết chủ động | Luyện đọc hiểu + viết đoạn văn/email/bài luận | `reading/`, `writing/` |
