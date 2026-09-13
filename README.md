@@ -78,6 +78,12 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 - [11 - Xử lý tình huống giao tiếp khó](speaking/11-difficult-conversations.md)
 - [12 - Kịch bản nhập vai (Roleplay Scripts)](speaking/12-roleplay-scripts.md)
 - [13 - Tự đánh giá & Theo dõi tiến bộ](speaking/13-self-assessment-rubric.md)
+- [14 - Sản xuất âm nối khi nói (Connected Speech Production)](speaking/14-connected-speech-production.md)
+- [15 - Thuyết phục & Kỹ thuật Tu từ (Persuasion & Rhetoric)](speaking/15-persuasion-rhetoric.md)
+- [16 - Hài hước, Mỉa mai & Sắc thái giọng điệu](speaking/16-humor-irony-tone.md)
+- [17 - Ngôn ngữ Đàm phán nâng cao](speaking/17-advanced-negotiation-language.md)
+- [18 - Ứng biến khi nói (Impromptu Speaking Frameworks)](speaking/18-impromptu-speaking-frameworks.md)
+- [19 - Điều chỉnh Văn phong & Giao tiếp liên văn hóa](speaking/19-register-cultural-adaptation.md)
 
 ### 📄 Kỹ năng Đọc ([reading/](reading/))
 - [01 - Chiến lược đọc hiểu](reading/01-reading-strategies.md)
