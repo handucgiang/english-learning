@@ -31,6 +31,9 @@ Bộ tài liệu bao quát cả **4 kỹ năng** (Nghe – Nói – Đọc – V
 - [22 - AI & Công nghệ mới nổi](vocabulary/22-ai-and-emerging-tech.md)
 - [23 - Giao tiếp số & An toàn trực tuyến](vocabulary/23-digital-communication-online-safety.md)
 - [24 - Chuyên ngành: Backend Development](vocabulary/24-backend-development.md)
+- [25 - IELTS: 50 từ cốt lõi theo chủ đề thông dụng](vocabulary/25-ielts-vocabulary-50-core.md)
+- [26 - IELTS: 100 từ mở rộng theo chủ đề thông dụng](vocabulary/26-ielts-vocabulary-100-intermediate.md)
+- [27 - IELTS: 200 từ nâng cao theo chủ đề thông dụng](vocabulary/27-ielts-vocabulary-200-advanced.md)
 
 ### 📖 Ngữ pháp ([grammar/](grammar/))
 - [01 - Các thì hiện tại](grammar/01-present-tenses.md)
